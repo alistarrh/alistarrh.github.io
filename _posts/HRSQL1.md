@@ -1,14 +1,18 @@
 
 
 ---
-layout:     post   				    # 使用的布局（不需要改）
-title:      Hackerrank  				# 标题 
-subtitle:   #副标题
-date:       2019-05-06 				# 时间
-author:     Alistarrh						# 作者
-header-img: img/access-algorithm-binary-193349.jpg 	#这篇文章标题背景图片
-catalog: true 						# 是否归档
-tags:		- Easy	- Basic Select	- Hackerrack	- SQL		#标签
+layout:     post   				    
+title:      Hackerrank  			
+subtitle:   
+date:       2019-05-06 				
+author:     Alistarrh						
+header-img: img/access-algorithm-binary-193349.jpg 	
+catalog: true 						
+tags:		
+- Easy	
+- Basic Select	
+- Hackerrack	
+- SQL	
 
 ---
 
