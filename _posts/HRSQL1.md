@@ -1,16 +1,17 @@
 
-
 ---
 layout:     post
-title:      Hackerrank
-subtitle:
+title:      1111
+subtitle:   22222
 date:       2019-05-06
-author:     Alistarrh			
+author:     Alistarrh
 header-img: img/access-algorithm-binary-193349.jpg
 catalog: true
-tags:	sql	
-
-
+tags:
+    - sql
+    - Hackerrank
+    - basic select
+    - easy
 ---
 
 # Revising the Select Query I
