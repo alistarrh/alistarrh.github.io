@@ -1,18 +1,20 @@
-
 ---
 layout:     post
-title:      1111
-subtitle:   22222
+title:      Hackerrank SQL#1 Revising the Select Query I 
+subtitle:   Basic Select
 date:       2019-05-06
 author:     Alistarrh
 header-img: img/access-algorithm-binary-193349.jpg
 catalog: true
 tags:
-    - sql
-    - Hackerrank
+    - mysql
     - basic select
-    - easy
+    - Hackerrank
+    - sql
 ---
+
+
+
 
 # Revising the Select Query I
 
