@@ -8,11 +8,8 @@ date:       2019-05-06
 author:     Alistarrh						
 header-img: img/access-algorithm-binary-193349.jpg 	
 catalog: true 						
-tags:		
-- Easy	
-- Basic Select	
-- Hackerrack	
-- SQL	
+tags:	sql	
+
 
 ---
 
